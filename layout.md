@@ -8,6 +8,7 @@ ni2jqpu6k9o.html
 id3fm6ph5do.html
 eoociq1mqq.html
 rnbskd47nf.html
+figures/Duration of Trip
 f3s9hcgvbmg.html
 7jg8vljc4ko.html
 qv3eac27hqo.html
