@@ -11,5 +11,3 @@ rnbskd47nf.html
 7jg8vljc4ko.html
 p8k7qu6hbno.html
 4cm0vblna9.html
-cm2h8nf7am8.html
-8nnn32i3q9.html
