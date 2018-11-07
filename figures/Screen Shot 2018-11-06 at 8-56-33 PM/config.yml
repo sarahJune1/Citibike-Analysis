@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Screen Shot 2018-11-06 at 8-56-33 PM/Screen Shot 2018-11-06 at 8-56-33
+      PM.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/249361/articles/335431/master/file/figures/Screen%20Shot%202018-11-06%20at%208-56-33%20PM/Screen%20Shot%202018-11-06%20at%208-56-33%20PM.png"
