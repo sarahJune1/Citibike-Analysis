@@ -9,3 +9,5 @@ figures/Duration of Trip
 f3s9hcgvbmg.html
 7jg8vljc4ko.html
 qv3eac27hqo.html
+figures/Screen Shot 2018-11-06 at 8-56-33 PM
+t6r6a15n1bo.html
